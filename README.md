@@ -26,6 +26,17 @@ Turn unstructured customer feedback into **actionable business insights** using 
   - Traditional NLP/ML
   - LLM-assisted analysis
 
+## 📊 Outcomes & Impact
+
+- Identified customer journey friction points  
+- Recommended actions to reduce early purchase friction (~8%)  
+- Highlighted strong preference (~71%) for ecosystem-led positioning  
+- Informed conversion strategy with data-backed insights  
+
+Final deliverables focused on **decision-ready insights**, not deployment.
+
+- Executive case summary (LinkedIn artifact / PDF): [https://www.linkedin.com/in/madhuram-ravichandran/overlay/1767840450470/single-media-viewer/](https://www.linkedin.com/in/madhuram-ravichandran/overlay/1767840450470/single-media-viewer/?profileId=ACoAAANJFTIBGuLan1TbHlSvC18Ua__Azx-qGWs)
+- Presentation materials (optional future addition if needed)
 
 ## Analysis Approach (Layered by Design)
 
@@ -133,19 +144,6 @@ All insights were:
 - Modified or discarded when misaligned with business context
 
 This reinforced that **AI improves productivity**, but **human judgment drives impact**.
-
-## 📊 Outcomes & Impact
-
-- Identified customer journey friction points  
-- Recommended actions to reduce early purchase friction (~8%)  
-- Highlighted strong preference for ecosystem-led positioning  
-- Informed conversion strategy with data-backed insights  
-
-Final deliverables focused on **decision-ready insights**, not deployment.
-
-- Executive case summary (LinkedIn artifact / PDF): [https://www.linkedin.com/in/madhuram-ravichandran/overlay/1767840450470/single-media-viewer/](https://www.linkedin.com/in/madhuram-ravichandran/overlay/1767840450470/single-media-viewer/?profileId=ACoAAANJFTIBGuLan1TbHlSvC18Ua__Azx-qGWs)
-- Presentation materials (optional future addition if needed)
-
 
 ## Future Extensions
 
