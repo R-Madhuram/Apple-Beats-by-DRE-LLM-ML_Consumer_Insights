@@ -27,7 +27,6 @@ Turn unstructured customer feedback into **actionable business insights** using 
   - Traditional NLP/ML
   - LLM-assisted analysis
 
----
 
 ## Analysis Approach (Layered by Design)
 
@@ -46,11 +45,11 @@ This layered approach enabled:
 
 ---
 
-## 📂 Repository Structure & Notebook Walkthrough
+## Repository Structure & Notebook Walkthrough
 
 The project is organized as a **notebook-driven analytical workflow**, reflecting the business scope and timeline of the externship.
 
-### 1️⃣ AmazonReviews_EDA.ipynb  
+### 1. AmazonReviews_EDA.ipynb  
 **Exploratory Data Analysis**
 
 Purpose:
@@ -63,9 +62,8 @@ Key techniques:
 - Distribution analysis
 - Review pattern discovery
 
----
 
-### 2️⃣ DATA_Cleaning_Amazon_Reviews.ipynb  
+### 2. DATA_Cleaning_Amazon_Reviews.ipynb  
 **Data Cleaning & Preprocessing**
 
 Purpose:
@@ -77,9 +75,8 @@ Key steps:
 - Handling duplicates and missing values
 - Text preprocessing for NLP pipelines
 
----
 
-### 3️⃣ Sentiment_Analysis.ipynb  
+### 3. Sentiment_Analysis.ipynb  
 **Traditional ML / NLP Sentiment Analysis**
 
 Purpose:
@@ -94,9 +91,8 @@ Focus:
 - Interpretability over raw accuracy
 - Business relevance over model complexity
 
----
 
-### 4️⃣ GEMEINAI_Sentiment_Analysis.ipynb  
+### 4. GEMEINAI_Sentiment_Analysis.ipynb  
 **LLM-Based Sentiment & Insight Extraction**
 
 Purpose:
@@ -104,15 +100,13 @@ Purpose:
 
 Approach:
 - Prompt-driven LLM analysis to extract:
-  - Key themes
-  - Sentiment polarity
-  - Intensity and frequency patterns
+  - Key business themes
+  - Sentiment analytics
+  - Competitor insights
 
 LLMs were used to **surface patterns**, not to decide conclusions.
 
----
-
-### 5️⃣ GEMINIAI_Viz.ipynb  
+### 5. GEMINIAI_Viz.ipynb  
 **LLM Insight Visualization**
 
 Purpose:
@@ -122,8 +116,6 @@ Purpose:
 Includes:
 - Charts derived from LLM-based insights
 - Exploratory visuals for executive storytelling
-
----
 
 ## 🛠️ Leveraging AI Coding Assistants
 
@@ -148,9 +140,7 @@ All insights were:
 
 This reinforced that **AI improves productivity**, but **human judgment drives impact**.
 
----
-
-## 📊 Outcomes & Impact
+## Outcomes & Impact
 
 - Identified customer journey friction points  
 - Recommended actions to reduce early purchase friction (~8%)  
@@ -159,9 +149,8 @@ This reinforced that **AI improves productivity**, but **human judgment drives i
 
 Final deliverables focused on **decision-ready insights**, not deployment.
 
----
 
-## 🚀 Future Extensions
+## Future Extensions
 
 If extended beyond the externship scope, next steps would include:
 - Refactoring logic into reusable Python modules
