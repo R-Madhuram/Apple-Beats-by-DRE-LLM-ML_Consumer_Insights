@@ -133,11 +133,6 @@ How AI was used:
   - NLP workflows
 - Accelerating iteration and experimentation
 
-How AI was **not** used:
-- Final interpretation
-- Business judgment
-- Stakeholder framing
-
 All insights were:
 - Validated against data limitations
 - Reviewed with stakeholders
