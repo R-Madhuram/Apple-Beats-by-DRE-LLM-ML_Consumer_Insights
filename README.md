@@ -173,7 +173,7 @@ If extended beyond the externship scope, next steps would include:
 
 ## Additional Artifacts
 
-- Executive case summary (LinkedIn artifact / PDF): https://www.linkedin.com/in/madhuram-ravichandran/overlay/1767840450470/single-media-viewer/
+- Executive case summary (LinkedIn artifact / PDF): [https://www.linkedin.com/in/madhuram-ravichandran/overlay/1767840450470/single-media-viewer/](https://www.linkedin.com/in/madhuram-ravichandran/overlay/1767840450470/single-media-viewer/?profileId=ACoAAANJFTIBGuLan1TbHlSvC18Ua__Azx-qGWs)
 - Presentation materials (optional future addition if needed)
 
 ---
