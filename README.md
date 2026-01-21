@@ -18,8 +18,8 @@ The objective of the project was to synthesize **large-scale qualitative and qua
 
 ---
 
-### Business Problem/Objective
-
+### 1. Business Problem/Objective
+---
 - Mature Bluetooth audio market with intense competition  
 - High volume of fragmented consumer feedback (reviews + surveys)  
 - Limited data-backed understanding of:
@@ -33,8 +33,8 @@ Turn unstructured customer feedback into **actionable business insights** using 
   - Traditional NLP/ML
   - LLM-assisted analysis
 
-### 📊 Outcomes & Impact
-
+### 📊 2.Outcomes & Impact
+---
 - Identified customer journey friction points  
 - Recommended actions to reduce early purchase friction (~8%)  
 - Highlighted strong preference (~71%) for ecosystem-led positioning  
@@ -45,8 +45,8 @@ Final deliverables focused on **decision-ready insights**, not deployment.
 - Executive case summary (LinkedIn artifact / PDF): [https://www.linkedin.com/in/madhuram-ravichandran/overlay/1767840450470/single-media-viewer/](https://www.linkedin.com/in/madhuram-ravichandran/overlay/1767840450470/single-media-viewer/?profileId=ACoAAANJFTIBGuLan1TbHlSvC18Ua__Azx-qGWs)
 - Presentation materials (optional future addition if needed)
 
-### Analysis Approach (Layered by Design)
-
+### 3. Analysis Approach (Layered by Design)
+---
 Analysis was intentionally structured in increasing levels of complexity:
 
       Survey Analytics --> Traditional ML / NLP Sentiment Analysis --> GenAI/LLM-Based Insight Extraction & Visualization
@@ -57,11 +57,11 @@ This layered approach enabled:
 - Progressive refinement of insights for business decision-making
 
 
-### 📂 Repository Structure & Notebook Walkthrough
-
+### 📂 4. Repository Structure & Notebook Walkthrough
+---
 The project is organized as a **notebook-driven analytical workflow**, reflecting the business scope and timeline of the externship.
 
-#### 1. AmazonReviews_EDA.ipynb  
+#### AmazonReviews_EDA.ipynb  
 **Exploratory Data Analysis**
 
 Purpose:
@@ -75,7 +75,7 @@ Key techniques:
 - Review pattern discovery
 
 
-#### 2. DATA_Cleaning_Amazon_Reviews.ipynb  
+#### DATA_Cleaning_Amazon_Reviews.ipynb  
 **Data Cleaning & Preprocessing**
 
 Purpose:
@@ -88,7 +88,7 @@ Key steps:
 - Text preprocessing for NLP pipelines
 
 
-#### 3. Sentiment_Analysis.ipynb  
+#### Sentiment_Analysis.ipynb  
 **Traditional ML / NLP Sentiment Analysis**
 
 Purpose:
@@ -104,7 +104,7 @@ Focus:
 - Business relevance over model complexity
 
 
-#### 4. GEMEINAI_Sentiment_Analysis.ipynb  
+#### GEMEINAI_Sentiment_Analysis.ipynb  
 **LLM-Based Sentiment & Insight Extraction**
 
 Purpose:
@@ -118,7 +118,7 @@ Approach:
 
 LLMs were used to **surface patterns**, not to decide conclusions.
 
-#### 5. GEMINIAI_Viz.ipynb  
+#### GEMINIAI_Viz.ipynb  
 **LLM Insight Visualization**
 
 Purpose:
@@ -130,7 +130,7 @@ Includes:
 - Exploratory visuals for executive storytelling
 
 ### 🛠️ Leveraging AI Coding Assistants
-
+---
 AI coding assistants were **actively encouraged and extensively used** throughout this project.
 
 How AI was used:
@@ -148,7 +148,7 @@ All insights were:
 This reinforced that **AI improves productivity**, but **human judgment drives impact**.
 
 ### Future Extensions
-
+---
 If extended beyond the externship scope, next steps would include:
 - Refactoring logic into reusable Python modules
 - Introducing pipeline-based processing for larger data volumes
@@ -157,7 +157,7 @@ If extended beyond the externship scope, next steps would include:
 
 
 ### Key Skills Demonstrated
-
+---
 - Applied Machine Learning & NLP  
 - LLM-assisted qualitative analysis  
 - Python analytics workflows  
