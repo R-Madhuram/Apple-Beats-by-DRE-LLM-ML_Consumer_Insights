@@ -86,7 +86,7 @@ Key steps:
 - Text preprocessing for NLP pipelines
 
 
-#### iii. Sentiment_Analysis.ipynb: Traditional ML / NLP Sentiment Analysis**
+#### iii. Sentiment_Analysis.ipynb: Traditional ML / NLP Sentiment Analysis
 
 Purpose:
 - Establish interpretable sentiment baselines
@@ -101,7 +101,7 @@ Focus:
 - Business relevance over model complexity
 
 
-#### iv. GEMEINAI_Sentiment_Analysis.ipynb: LLM-Based Sentiment & Insight Extraction**
+#### iv. GEMEINAI_Sentiment_Analysis.ipynb: LLM-Based Sentiment & Insight Extraction
 
 Purpose:
 - Scale qualitative insight discovery using LLMs
