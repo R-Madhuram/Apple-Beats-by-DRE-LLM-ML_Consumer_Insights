@@ -61,7 +61,7 @@ This layered approach enabled:
 ---
 The project is organized as a **notebook-driven analytical workflow**, reflecting the business scope and timeline of the externship.
 
-#### i. AmazonReviews_EDA.ipynb: Exploratory Data Analysis
+    i. AmazonReviews_EDA.ipynb: Exploratory Data Analysis
 
 Purpose:
 - Understand review distributions and metadata
@@ -74,7 +74,7 @@ Key techniques:
 - Review pattern discovery
 
 
-#### ii. DATA_Cleaning_Amazon_Reviews.ipynb: Data Cleaning & Preprocessing
+   ii. DATA_Cleaning_Amazon_Reviews.ipynb: Data Cleaning & Preprocessing
 
 Purpose:
 - Prepare unstructured text for modeling
@@ -86,7 +86,7 @@ Key steps:
 - Text preprocessing for NLP pipelines
 
 
-#### iii. Sentiment_Analysis.ipynb: Traditional ML / NLP Sentiment Analysis
+   iii. Sentiment_Analysis.ipynb: Traditional ML / NLP Sentiment Analysis
 
 Purpose:
 - Establish interpretable sentiment baselines
@@ -101,7 +101,7 @@ Focus:
 - Business relevance over model complexity
 
 
-#### iv. GEMEINAI_Sentiment_Analysis.ipynb: LLM-Based Sentiment & Insight Extraction
+   iv. GEMEINAI_Sentiment_Analysis.ipynb: LLM-Based Sentiment & Insight Extraction
 
 Purpose:
 - Scale qualitative insight discovery using LLMs
@@ -114,7 +114,7 @@ Approach:
 
 LLMs were used to **surface patterns**, not to decide conclusions.
 
-#### v. GEMINIAI_Viz.ipynb: LLM Insight Visualization
+   v. GEMINIAI_Viz.ipynb: LLM Insight Visualization
 
 Purpose:
 - Translate LLM outputs into visual summaries
