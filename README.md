@@ -61,65 +61,54 @@ This layered approach enabled:
 ---
 The project is organized as a **notebook-driven analytical workflow**, reflecting the business scope and timeline of the externship.
 
-    i. AmazonReviews_EDA.ipynb: Exploratory Data Analysis
-
+**i. AmazonReviews_EDA.ipynb**: Exploratory Data Analysis
 Purpose:
 - Understand review distributions and metadata
 - Identify recurring themes and patterns
 - Surface early signals of customer friction
-
 Key techniques:
 - Text exploration
 - Distribution analysis
 - Review pattern discovery
 
 
-   ii. DATA_Cleaning_Amazon_Reviews.ipynb: Data Cleaning & Preprocessing
-
+**ii. DATA_Cleaning_Amazon_Reviews.ipynb**: Data Cleaning & Preprocessing
 Purpose:
 - Prepare unstructured text for modeling
 - Ensure consistency and analytical reliability
-
 Key steps:
 - Normalization and filtering
 - Handling duplicates and missing values
 - Text preprocessing for NLP pipelines
 
 
-   iii. Sentiment_Analysis.ipynb: Traditional ML / NLP Sentiment Analysis
-
+**iii. Sentiment_Analysis.ipynb**: Traditional ML / NLP Sentiment Analysis
 Purpose:
 - Establish interpretable sentiment baselines
-
 Techniques:
 - TextBlob and VADER sentiment scoring
 - Aggregation of sentiment by theme and intensity
 - Comparison across product features and experience stages
-
 Focus:
 - Interpretability over raw accuracy
 - Business relevance over model complexity
 
 
-   iv. GEMEINAI_Sentiment_Analysis.ipynb: LLM-Based Sentiment & Insight Extraction
-
+**iv. GEMENINAI_Sentiment_Analysis.ipynb**: LLM-Based Sentiment & Insight Extraction
 Purpose:
 - Scale qualitative insight discovery using LLMs
-
 Approach:
 - Prompt-driven LLM analysis to extract:
   - Key business themes
   - Sentiment analytics
   - Competitor insights
-
 LLMs were used to **surface patterns**, not to decide conclusions.
 
-   v. GEMINIAI_Viz.ipynb: LLM Insight Visualization
 
+**v. GEMINIAI_Viz.ipynb**: LLM Insight Visualization
 Purpose:
 - Translate LLM outputs into visual summaries
 - Explore how this layer could feed into a future ML pipeline
-
 Includes:
 - Charts derived from LLM-based insights
 - Exploratory visuals for executive storytelling
