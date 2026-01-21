@@ -21,8 +21,7 @@ The objective of the project was to synthesize **large-scale qualitative and qua
   - Retention and repeat intent
 
 **Goal:**  
-Turn unstructured customer feedback into **actionable business insights** using a combination of:
-- Python-based analytics
+Turn unstructured customer feedback into **actionable business insights** using a combination of qualitative & quantitative Python-based analytics:
   - Data VIsualizations
   - Traditional NLP/ML
   - LLM-assisted analysis
