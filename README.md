@@ -1,4 +1,11 @@
-# Applied ML & LLM-Based Consumer Experience Insights  
+# Applied ML & LLM-Based Consumer Experience Insights 
+![Externship](https://img.shields.io/badge/Externship-Apple%20%7C%20Beats%20by%20Dre-darkred)
+![Language](https://img.shields.io/badge/Language-Python-blue)
+![ML](https://img.shields.io/badge/Machine%20Learning-NLP-orange)
+![LLM](https://img.shields.io/badge/LLM-Gemini%20AI-purple)
+![Focus](https://img.shields.io/badge/Focus-Consumer%20Insights-red)
+![Output](https://img.shields.io/badge/Output-Business%20Recommendations-success)
+
 
 This repository contains an **applied machine learning and analytics case study** completed during an externship with **Apple’s Beats by Dre – Consumer Experience team**.
 
@@ -11,7 +18,7 @@ The objective of the project was to synthesize **large-scale qualitative and qua
 
 ---
 
-## Business Problem/Objective
+### Business Problem/Objective
 
 - Mature Bluetooth audio market with intense competition  
 - High volume of fragmented consumer feedback (reviews + surveys)  
@@ -26,7 +33,7 @@ Turn unstructured customer feedback into **actionable business insights** using 
   - Traditional NLP/ML
   - LLM-assisted analysis
 
-## 📊 Outcomes & Impact
+### 📊 Outcomes & Impact
 
 - Identified customer journey friction points  
 - Recommended actions to reduce early purchase friction (~8%)  
@@ -38,7 +45,7 @@ Final deliverables focused on **decision-ready insights**, not deployment.
 - Executive case summary (LinkedIn artifact / PDF): [https://www.linkedin.com/in/madhuram-ravichandran/overlay/1767840450470/single-media-viewer/](https://www.linkedin.com/in/madhuram-ravichandran/overlay/1767840450470/single-media-viewer/?profileId=ACoAAANJFTIBGuLan1TbHlSvC18Ua__Azx-qGWs)
 - Presentation materials (optional future addition if needed)
 
-## Analysis Approach (Layered by Design)
+### Analysis Approach (Layered by Design)
 
 Analysis was intentionally structured in increasing levels of complexity:
 
@@ -50,11 +57,11 @@ This layered approach enabled:
 - Progressive refinement of insights for business decision-making
 
 
-## 📂 Repository Structure & Notebook Walkthrough
+### 📂 Repository Structure & Notebook Walkthrough
 
 The project is organized as a **notebook-driven analytical workflow**, reflecting the business scope and timeline of the externship.
 
-### 1. AmazonReviews_EDA.ipynb  
+#### 1. AmazonReviews_EDA.ipynb  
 **Exploratory Data Analysis**
 
 Purpose:
@@ -68,7 +75,7 @@ Key techniques:
 - Review pattern discovery
 
 
-### 2. DATA_Cleaning_Amazon_Reviews.ipynb  
+#### 2. DATA_Cleaning_Amazon_Reviews.ipynb  
 **Data Cleaning & Preprocessing**
 
 Purpose:
@@ -81,7 +88,7 @@ Key steps:
 - Text preprocessing for NLP pipelines
 
 
-### 3. Sentiment_Analysis.ipynb  
+#### 3. Sentiment_Analysis.ipynb  
 **Traditional ML / NLP Sentiment Analysis**
 
 Purpose:
@@ -97,7 +104,7 @@ Focus:
 - Business relevance over model complexity
 
 
-### 4. GEMEINAI_Sentiment_Analysis.ipynb  
+#### 4. GEMEINAI_Sentiment_Analysis.ipynb  
 **LLM-Based Sentiment & Insight Extraction**
 
 Purpose:
@@ -111,7 +118,7 @@ Approach:
 
 LLMs were used to **surface patterns**, not to decide conclusions.
 
-### 5. GEMINIAI_Viz.ipynb  
+#### 5. GEMINIAI_Viz.ipynb  
 **LLM Insight Visualization**
 
 Purpose:
@@ -122,7 +129,7 @@ Includes:
 - Charts derived from LLM-based insights
 - Exploratory visuals for executive storytelling
 
-## 🛠️ Leveraging AI Coding Assistants
+### 🛠️ Leveraging AI Coding Assistants
 
 AI coding assistants were **actively encouraged and extensively used** throughout this project.
 
@@ -140,7 +147,7 @@ All insights were:
 
 This reinforced that **AI improves productivity**, but **human judgment drives impact**.
 
-## Future Extensions
+### Future Extensions
 
 If extended beyond the externship scope, next steps would include:
 - Refactoring logic into reusable Python modules
@@ -149,7 +156,7 @@ If extended beyond the externship scope, next steps would include:
 - Stronger integration between ML outputs and business KPIs
 
 
-## Key Skills Demonstrated
+### Key Skills Demonstrated
 
 - Applied Machine Learning & NLP  
 - LLM-assisted qualitative analysis  
