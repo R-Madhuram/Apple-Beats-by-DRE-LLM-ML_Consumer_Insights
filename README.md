@@ -11,7 +11,7 @@ The objective of the project was to synthesize **large-scale qualitative and qua
 
 ---
 
-## Problem Context
+## Business Problem/Objective
 
 - Mature Bluetooth audio market with intense competition  
 - High volume of fragmented consumer feedback (reviews + surveys)  
@@ -32,20 +32,15 @@ Turn unstructured customer feedback into **actionable business insights** using 
 
 Analysis was intentionally structured in increasing levels of complexity:
 
-Survey Analytics
-↓
-Traditional ML / NLP Sentiment Analysis
-↓
-GenAI/LLM-Based Insight Extraction & Visualization
+      Survey Analytics --> Traditional ML / NLP Sentiment Analysis --> GenAI/LLM-Based Insight Extraction & Visualization
 
 This layered approach enabled:
 - Pattern identification across large datasets
 - Scalability of qualitative analysis
 - Progressive refinement of insights for business decision-making
 
----
 
-## Repository Structure & Notebook Walkthrough
+## 📂 Repository Structure & Notebook Walkthrough
 
 The project is organized as a **notebook-driven analytical workflow**, reflecting the business scope and timeline of the externship.
 
@@ -140,7 +135,7 @@ All insights were:
 
 This reinforced that **AI improves productivity**, but **human judgment drives impact**.
 
-## Outcomes & Impact
+## 📊 Outcomes & Impact
 
 - Identified customer journey friction points  
 - Recommended actions to reduce early purchase friction (~8%)  
@@ -148,6 +143,9 @@ This reinforced that **AI improves productivity**, but **human judgment drives i
 - Informed conversion strategy with data-backed insights  
 
 Final deliverables focused on **decision-ready insights**, not deployment.
+
+- Executive case summary (LinkedIn artifact / PDF): [https://www.linkedin.com/in/madhuram-ravichandran/overlay/1767840450470/single-media-viewer/](https://www.linkedin.com/in/madhuram-ravichandran/overlay/1767840450470/single-media-viewer/?profileId=ACoAAANJFTIBGuLan1TbHlSvC18Ua__Azx-qGWs)
+- Presentation materials (optional future addition if needed)
 
 
 ## Future Extensions
@@ -158,14 +156,6 @@ If extended beyond the externship scope, next steps would include:
 - Enabling periodic re-runs to refresh insights
 - Stronger integration between ML outputs and business KPIs
 
----
-
-## Additional Artifacts
-
-- Executive case summary (LinkedIn artifact / PDF): [https://www.linkedin.com/in/madhuram-ravichandran/overlay/1767840450470/single-media-viewer/](https://www.linkedin.com/in/madhuram-ravichandran/overlay/1767840450470/single-media-viewer/?profileId=ACoAAANJFTIBGuLan1TbHlSvC18Ua__Azx-qGWs)
-- Presentation materials (optional future addition if needed)
-
----
 
 ## Key Skills Demonstrated
 
